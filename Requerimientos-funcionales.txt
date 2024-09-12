@@ -1,6 +1,7 @@
 Sistema de administracion de eventos
 Verificador de disponibilidad para evento
-Verificador de disponibilidad para entradadmin de socios
+Verificador de disponibilidad para entrad
+Administracion de socios
 Administracion de clientes
 Gestion de deudas
 Gestion de entradas
